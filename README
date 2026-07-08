@@ -1,0 +1,99 @@
+# 📚 Library Book Manager
+
+A simple command-line **Library Book Manager** built with Python. This project helps users manage a collection of books using a menu-driven interface.
+
+## ✨ Features
+
+* ➕ Add a new book
+* 📖 View all books
+* 🔍 Search for a book
+* ❌ Remove a book
+* 📊 Count total books
+* 💾 Save books to a text file
+* 📂 Load books from a text file
+* 🚪 Exit the application
+
+## 🛠️ Technologies Used
+
+* Python 3
+* File Handling
+* Lists
+* Loops (`while`, `for`)
+* Conditional Statements (`if`, `elif`, `else`)
+* Exception Handling (`try-except`)
+
+## 📂 Project Structure
+
+```text
+Library-Book-Manager/
+│── library_manager.py
+│── data.txt
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Make sure Python 3 is installed.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the program:
+
+```bash
+python library_manager.py
+```
+
+## 📋 Menu Options
+
+1. Add Book
+2. View Books
+3. Search Book
+4. Remove Book
+5. Count Books
+6. Save Books to File
+7. Load Books from File
+8. Exit
+
+## 📸 Sample Output
+
+```text
+Library Book Manager
+
+1. Add Book
+2. View Book
+3. Search Book
+4. Remove Book
+5. Count Book
+6. Save Book to File
+7. Load Book from File
+8. Exit
+
+Enter your choice:
+```
+
+## 🎯 Learning Objectives
+
+This project demonstrates the use of:
+
+* Variables
+* Lists
+* Loops
+* Conditional Statements
+* Functions (can be added in future versions)
+* File Handling
+* Exception Handling
+* Menu-Driven Programming
+
+## 🚀 Future Improvements
+
+* Rewrite the project using functions.
+* Add book author and ISBN details.
+* Store data in JSON or SQLite.
+* Add update/edit book feature.
+* Add login system.
+* Build a graphical user interface (GUI) using Tkinter.
+
+## 👨‍💻 Author
+
+**Gowtham**
+
+Python Beginner Project
